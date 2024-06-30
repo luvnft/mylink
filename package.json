@@ -6,8 +6,7 @@
   "source": [
     "src/app.js",
     "src/index.html",
-    "src/card.html",
-    "src/landing.html"
+    "src/card.html"
   ],
   "parcelIgnore": [
     "generative.js"
