@@ -4,7 +4,6 @@
   "description": " A serverless social cards sharing web app",
   "type": "module",
   "source": [
-    "src/card.html"
   ],
   "parcelIgnore": [
     "generative.js"
